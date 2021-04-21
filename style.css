@@ -1,0 +1,13 @@
+h1{
+    color:dodgerblue;
+    text-align: center;
+}
+.Links{
+    display: flex;
+    justify-content:space-around;
+}
+.Text{
+    display:flex;
+    flex-wrap:wrap;
+    background-color: palegoldenrod;
+}
